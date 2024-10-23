@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onload="alert('welcome to home page')">
+    <form action="">
+        <label for=""><h2>Enter your name</h2>
+        <input type="text" onfocus="alert('enter your name')"></label>
+    </form>
+</body>
+</html>
